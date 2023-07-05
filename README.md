@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47q57kvpmni4pp1pk75bzzvaqgx750jqtitymw1q7r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=400 align="right">
+<img src="https://media1.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47q57kvpmni4pp1pk75bzzvaqgx750jqtitymw1q7r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=400 align="right" margin-left=20>
 
 ### Hi, I'm Slava!
 I am a data analyst from Moscow.
