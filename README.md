@@ -13,6 +13,11 @@
     <li>🌚 My <a href="https://public.tableau.com/app/profile/slava.artamonov">Tableau</a> dashboards</li>
     <li>❤️ Specialty coffee expert, Dadaism lover, general fighter</li>
   </ul>
+  <img 
+  src="https://media1.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47q57kvpmni4pp1pk75bzzvaqgx750jqtitymw1q7r&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+  width=400
+  align=right
+  >
   <div>
     <h3>Languages and tools:</h3>
     <img 
@@ -81,9 +86,3 @@
     >
   </div>
 </div>
-<br>
-<br>
-<img 
-  src="https://media1.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47q57kvpmni4pp1pk75bzzvaqgx750jqtitymw1q7r&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
-  width=400
-  >
