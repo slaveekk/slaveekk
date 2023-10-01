@@ -1,6 +1,6 @@
 <div style="margin:'0 20 0 0'">
   <h2>Hi, I'm Slava!</h2> 
-  <p>I am a data analyst from Moscow.</p>
+  <p>I am a data analyst from Valencia.</p>
 
   <ul>
     <li>🔭 Passionate about data and solving the world's problems with it </li>
